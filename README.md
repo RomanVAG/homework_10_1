@@ -24,3 +24,12 @@ git clone git@github.com:RomanVAG/homework_10_1.git
 ```
 poetry install
 ```
+
+
+## Использование
+Добавьте в ваш проект функции из файла src/processing.py
+
+Пример работы функции содержится в файле main.py
+
+
+
